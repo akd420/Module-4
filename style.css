@@ -19,4 +19,14 @@ nav li:hover{
 nav li a{
     text-decoration: none;
     color: black;
+    
+}
+nav li .drop{
+    display: none;
+    position: absolute;
+    background-color: lightcoral;
+    padding-left: 10px;
+}
+nav li:hover > .drop{
+    display: block;
 }
