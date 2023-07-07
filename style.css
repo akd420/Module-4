@@ -30,3 +30,11 @@ nav li .drop{
 nav li:hover > .drop{
     display: block;
 }
+.img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+.panda{
+    width: 300px;
+}
