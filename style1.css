@@ -3,5 +3,7 @@ td,th{
 }
 table{
     border-collapse: separate;
+
     border: 1px solid black;
 }
+
